@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617837423306",
+    "firebase_url": "https://perdeacha-1a329.firebaseio.com",
+    "project_id": "perdeacha-1a329",
+    "storage_bucket": "perdeacha-1a329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617837423306:android:dccfbfb5d5fab9fe5be233",
+        "android_client_info": {
+          "package_name": "br.com.perdeacha.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617837423306-2keprnd9v2br5gblrnuo4rragrd4r6dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNHnk2y5zx3a8Zc7pEiJBV52aMyDYvAGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617837423306-2keprnd9v2br5gblrnuo4rragrd4r6dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

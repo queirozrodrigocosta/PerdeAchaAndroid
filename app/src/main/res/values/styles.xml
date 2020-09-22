@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Widget.MaterialComponents.Button.OutlinedButton.PrimaryButton">
+        <item name="backgroundTint">?attr/colorPrimary</item>
+        <item name="strokeColor">?attr/colorPrimary</item>
+        <item name="android:textColor">?attr/backgroundColor</item>
+    </style>
+
+</resources>

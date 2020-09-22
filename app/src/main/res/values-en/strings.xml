@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perde Acha</string>
+    <string name="login_button">Login</string>
+    <string name="login_sign_up">Sign Up</string>
+    <string name="login_forgot_password">Forgot password</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_confirm_password_hint">Confirm Password</string>
+    <string name="erro">error</string>
+    <string name="recover_password_button_text">Recover Password</string>
+    <string name="forgot_error_msg" translatable="false">Email not found</string>
+    <string name="login_error_msg" translatable="false">Invalid user or password</string>
+    <string name="invalid_email_error" translatable="false">Invalid Email</string>
+    <string name="signup_error_msg">Error to Signup</string>
+    <string name="building_text">Building</string>
+    <string name="message">Message</string>
+</resources>

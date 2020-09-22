@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Perde Acha</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_forgot_password">Esqueci minha senha</string>
+    <string name="login_sign_up">Cadastre-se</string>
+    <string name="login_email_hint" translatable="false">E-mail</string>
+    <string name="login_password_hint">Senha</string>
+    <string name="login_confirm_password_hint">Confirmar Senha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="erro">erro</string>
+    <string name="title_activity_login_container" translatable="false">LoginContainerActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="recover_password_button_text">Recuperar Senha</string>
+    <string name="signup_error_msg">Erro ao cadastrar usuário</string>
+    <string name="invalid_email_error">Email inválido</string>
+    <string name="login_error_msg">Usuário ou senha inválida</string>
+    <string name="forgot_error_msg">Email não encontrado</string>
+    <string name="building_text">Em Construção</string>
+    <string name="login_sucess_constant" translatable="false">LOGIN_SUCCESS</string>
+    <string name="login_error_constant" translatable="false">LOGIN_ERROR</string>
+    <string name="api_key">https://dialogflow-server-perdeacha.herokuapp.com/api/</string>
+    <string name="message">Mensagem</string>
+</resources>
